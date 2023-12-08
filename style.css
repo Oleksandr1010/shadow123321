@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.shadow1 {
+  color: black;
+  box-shadow: 2px 2px 7px black;
+}
+
+.shadow2 {
+  color: black;
+  text-shadow: 6px 3px 4px #5c5c5c;
+}
